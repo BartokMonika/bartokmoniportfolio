@@ -1,0 +1,82 @@
+
+
+
+
+
+ #fejlec { background-color: gray;
+       color: black  ;  
+       font-size: 200%;  
+       text-align: center ;
+       font-style: italic;
+       }
+ 
+ 
+ 
+ 
+
+ ul{ 
+ list-style-type: none ; 
+ margin :0px;
+ padding: 0px ;  
+ overflow: hidden; 
+background-color:#333;} 
+  
+
+
+  li{ float :left;}
+    
+
+  li a { 
+  	display: inline; 
+  	color:white ; 
+  	text-align: center; 
+    padding:14px 16px ; 
+    text-decoration: none ;} 
+
+  li a:hover {background-color: black ;}
+
+
+a{color : black ;  
+display: inline-block; 
+font-size: 150%; 
+}
+
+h1{background-color:black ; 
+   color: white ; 
+   font-size:35px;                   
+      
+    } 
+
+a {text-decoration: none; 
+}
+   
+a:hover {color: white  ;} 
+
+h4{ background-color: black;  
+  color: white ;
+font-size: 35px; }  
+
+div img{display: flex; 
+justify-content: space-around;}
+
+ h5{font-size: 35px ; 
+    color: white ; 
+   background-color: black;} 
+
+ p{color: black ; 
+   font-size: 30px;}
+
+body{background-color:gray;   
+{display:flex;
+flex-wrap: wrap; 
+color: black; 
+}   
+
+
+
+   
+
+
+  
+
+
